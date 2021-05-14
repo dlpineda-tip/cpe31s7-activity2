@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"D:/SYSAD2/activity2","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
